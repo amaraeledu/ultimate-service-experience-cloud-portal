@@ -30,61 +30,61 @@ Access is managed through a full self-service registration flow: sign-up, a data
 ### 1. Homepage
 A single search bar ("How Can We Help?") acts as the entry point to search the knowledge base directly from the homepage.
 
-![Homepage search](sitescreenshots/01-home-search.png)
+![Homepage search](screenshots/01-home-search.png)
 
 ### 2. Chatbot — pre-chat capture
 Before connecting a visitor to the chatbot, the widget captures name, email, and subject so context carries into the conversation.
 
-![Chat pre-chat form](sitescreenshots/02-chat-widget-prefill-form.png)
+![Chat pre-chat form](screenshots/02-chat-widget-prefill-form.png)
 
 ### 3. Chatbot — live conversation
 Once submitted, the bot greets the visitor by name and is ready to assist.
 
-![Chat active conversation](sitescreenshots/03-chat-widget-active-conversation.png)
+![Chat active conversation](screenshots/03-chat-widget-active-conversation.png)
 
 ### 4. Help Desk — Case submission
 A structured support form (contact lookup, subject, description, file attachment) creates a trackable Service Cloud Case rather than an untracked email.
 
-![Contact support form](sitescreenshots/04-help-desk-contact-support-form.png)
+![Contact support form](screenshots/04-help-desk-contact-support-form.png)
 
 ### 5. Help Desk — Ask a Question
 Customers can also post a question to the community directly, turning one customer's question into a searchable answer for everyone else.
 
-![Ask a question modal](sitescreenshots/05-ask-a-question-modal.png)
+![Ask a question modal](screenshots/05-ask-a-question-modal.png)
 
 ### 6. FAQ / Knowledge base
 Featured topic tiles surface the most relevant content, backed by a full searchable article list.
 
-![FAQ page](sitescreenshots/06a-faq-page.png)
+![FAQ page](screenshots/06a-faq-page.png)
 
 ### 7. Knowledge article detail
 Clicking an article opens its full content inline, with a one-click "Did this content solve your issue?" feedback control — a simple, direct signal for content quality over time.
 
-![FAQ article detail](sitescreenshots/07a-faq-article-detail-modal.png)
+![FAQ article detail](screenshots/07a-faq-article-detail-modal.png)
 
 ### 8. Login
 Separate login paths for customers and employees, with standard password recovery.
 
-![Login page](sitescreenshots/08-login-page.png)
+![Login page](screenshots/08-login-page.png)
 
 ### 9. Self-registration
 New customers can self-register for portal access.
 
-![Sign up page](sitescreenshots/09-signup-page.png)
+![Sign up page](screenshots/09-signup-page.png)
 
 ### 10. Privacy preferences
 As part of onboarding, new members explicitly set their contact, usage-tracking, and location-tracking preferences — consent captured at the point of registration, not buried in a settings menu later.
 
-![Privacy preferences step](sitescreenshots/10-privacy-preferences-step.png)
+![Privacy preferences step](screenshots/10-privacy-preferences-step.png)
 
 ### 11. Registration complete
 
-![Registration complete](sitescreenshots/11-registration-complete.png)
+![Registration complete](screenshots/11-registration-complete.png)
 
 ### 12. Password management
 Standard self-service password reset with live complexity validation.
 
-![Change password](sitescreenshots/12-change-password.png)
+![Change password](screenshots/12-change-password.png)
 
 ---
 
